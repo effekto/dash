@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import { HashRouter, Route, Switch } from 'react-router-dom';
+import { BrowserRouter, HashRouter, Route, Switch } from 'react-router-dom';
+/*import Dashboard from './src/views/Dashboard/Dashboard'*/
 // import { renderRoutes } from 'react-router-config';
 import Loadable from 'react-loadable';
 import './App.scss';
